@@ -1,2 +1,2 @@
 # penumbra-gui
-GUI for Penumbra IBC L1 blockchain
+This GUI is strictly for testing purposes. DO NOT USE ON MAINNET
